@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |spec|
   spec.name         = "LGPodTestPublicLG"
-  spec.version      = "0.01"
+  spec.version      = "0.0.5"
   spec.summary      = "A Short Test"
   spec.description  = <<-DESC
   项目描述，一些介绍。A short description of LGPodTestPublicLG.
